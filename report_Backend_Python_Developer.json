@@ -1,0 +1,173 @@
+{
+  "role": "Backend Python Developer",
+  "generated_at": "2026-04-06T14:25:44.527612Z",
+  "skill_map": {
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "FastAPI",
+      "Django"
+    ],
+    "infrastructure": [
+      "Docker",
+      "PostgreSQL"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "salary_table": {
+    "Junior": {
+      "Москва": [
+        70,
+        120,
+        160
+      ],
+      "Регионы РФ": [
+        50,
+        90,
+        130
+      ],
+      "Remote USD": [
+        1500,
+        2500,
+        3500
+      ]
+    },
+    "Middle": {
+      "Москва": [
+        150,
+        230,
+        350
+      ],
+      "Регионы РФ": [
+        120,
+        180,
+        270
+      ],
+      "Remote USD": [
+        3000,
+        4500,
+        6000
+      ]
+    },
+    "Senior": {
+      "Москва": [
+        300,
+        450,
+        650
+      ],
+      "Регионы РФ": [
+        250,
+        350,
+        500
+      ],
+      "Remote USD": [
+        5000,
+        7000,
+        9000
+      ]
+    },
+    "Lead": {
+      "Москва": [
+        500,
+        700,
+        950
+      ],
+      "Регионы РФ": [
+        400,
+        550,
+        750
+      ],
+      "Remote USD": [
+        8000,
+        11000,
+        15000
+      ]
+    }
+  },
+  "market_trend": {
+    "trend": "growing",
+    "reason": "Высокий спрос на эту специализацию"
+  },
+  "top_employers": [
+    "Яндекс",
+    "Ozon Tech",
+    "Тинькофф",
+    "VK",
+    "Сбер"
+  ],
+  "learning_path": {
+    "Foundation": {
+      "topics": [
+        "Основы языка",
+        "Алгоритмы",
+        "Git"
+      ],
+      "resources": [
+        [
+          "Курс на Stepik",
+          "course"
+        ],
+        [
+          "Официальная документация",
+          "documentation"
+        ]
+      ],
+      "milestone": "Написание первой программы"
+    },
+    "Practice": {
+      "topics": [
+        "Работа с БД",
+        "API",
+        "Тестирование"
+      ],
+      "resources": [
+        [
+          "Книга 'Clean Code'",
+          "book"
+        ],
+        [
+          "Курс на Coursera",
+          "course"
+        ]
+      ],
+      "milestone": "Создание CRUD приложения"
+    },
+    "Portfolio": {
+      "topics": [
+        "Проектирование",
+        "Деплой",
+        "CI/CD"
+      ],
+      "resources": [
+        [
+          "Документация Docker",
+          "documentation"
+        ],
+        [
+          "Курс по DevOps",
+          "course"
+        ]
+      ],
+      "milestone": "Публичный репозиторий с проектом"
+    }
+  },
+  "gap_analysis": {
+    "quick_wins": [
+      "Изучить Git",
+      "Основы SQL"
+    ],
+    "long_term": [
+      "System Design",
+      "Облачные технологии"
+    ]
+  },
+  "portfolio_project": {
+    "name": "",
+    "description": "",
+    "technologies": []
+  }
+}
